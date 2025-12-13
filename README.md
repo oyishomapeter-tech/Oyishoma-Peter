@@ -1,5 +1,5 @@
 # Hi, I'm Peter Oyishoma  
-### Application Security Engineer | API Security | Cybersecurity 
+### Application Security Engineer | API Security | Cybersecurity | Certified Trainer
 
 [![GitHub followers](https://img.shields.io/github/followers/PeterOyishoma?label=Followers&style=social)](https://github.com/PeterOyishoma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Oyishoma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peteroyishoma/)
