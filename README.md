@@ -2,13 +2,13 @@
 ### Application Security Engineer | API Security | Web & Systems Security  
 
 [![GitHub followers](https://img.shields.io/github/followers/PeterOyishoma?label=Followers&style=social)](https://github.com/PeterOyishoma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Oyishoma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Oyishoma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peteroyishoma/)
 [![Twitter](https://img.shields.io/badge/Twitter-@OyishomaPeter-blue?style=flat&logo=twitter)](https://twitter.com/OyishomaPeter)
 
 ---
 
 ## 🔹 About Me
-I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations. I document hands-on security projects, labs, and learning in AppSec.
+### I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations. I document hands-on security projects, labs, and learning in AppSec.
 ---
 
 ## 🛠️ Skills & Technologies
