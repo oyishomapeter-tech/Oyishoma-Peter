@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter Oyishoma  
+# Hi, I'm Peter Oyishoma  
 ### Application Security Engineer | API Security | Cybersecurity 
 
 [![GitHub followers](https://img.shields.io/github/followers/PeterOyishoma?label=Followers&style=social)](https://github.com/PeterOyishoma)
