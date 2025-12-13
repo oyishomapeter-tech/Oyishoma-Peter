@@ -8,10 +8,7 @@
 ---
 
 ## 🔹 About Me
-I am an **Application Security Engineer** focused on securing web applications and APIs.  
-I specialize in **API security, vulnerability assessment, authentication/authorization flows, and secure system configurations**.  
-I document **hands-on security projects, labs, and learning in AppSec** to help others learn and stay ahead of emerging threats.
-
+I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations. I document hands-on security projects, labs, and learning in AppSec.
 ---
 
 ## 🛠️ Skills & Technologies
@@ -71,7 +68,7 @@ I document **hands-on security projects, labs, and learning in AppSec** to help 
 
 ## 📫 Contact Me
 - **Email:** peter.oyishoma@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/peteroyishoma)  
 - **Twitter:** [@OyishomaPeter](https://twitter.com/OyishomaPeter)
 
 ---
