@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peter Oyishoma  
-### Application Security Engineer | API Security | Web & Systems Security  
+### Application Security Engineer | API Security | Cybersecurity 
 
 [![GitHub followers](https://img.shields.io/github/followers/PeterOyishoma?label=Followers&style=social)](https://github.com/PeterOyishoma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Oyishoma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peteroyishoma/)
@@ -9,32 +9,29 @@
 
 ## 🔹 About Me
 ### I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations. I document hands-on security projects, labs, and learning in AppSec.
+
 ---
 
-## 🛠️ Skills & Technologies
+## 🎯 Career Objective
+To work as an Application Security Engineer where I can secure web applications and APIs through practical security testing, strong authentication and authorization controls, and secure system configurations, while continuously improving application security through hands-on projects and real-world problem solving.
 
-### **Security Tools**
-![Nessus](https://img.shields.io/badge/Nessus-E74C3C?style=flat&logo=nessus)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1F2022?style=flat&logo=burpsuite)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF5722?style=flat&logo=owasp)
-![Metasploit](https://img.shields.io/badge/Metasploit-4A148C?style=flat&logo=metasploit)
+---
 
-### **Programming & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+## 🛠️ Skills & Experience Mapping
 
-### **Systems & Infrastructure**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox)
-
-### **Security Domains**
-- API Security & Authentication/Authorization  
-- Vulnerability Assessment & Risk Analysis  
-- Secure System & Application Configurations  
-- Secure Lab Design & Implementation  
+| Category | Skill | Related Project | Certification / Evidence |
+|--------|------|----------------|--------------------------|
+| **Web Development** | JavaScript (Secure Logic) | [Server Management Chatbot](https://github.com/PeterOyishoma) | [W3Schools JavaScript](https://www.w3schools.com) |
+| **Web Development** | Node.js Backend Development | [Server Management Chatbot](https://github.com/PeterOyishoma) | [W3Schools JavaScript](https://www.w3schools.com) |
+| **Web Development** | Secure Authentication Implementation | [API Security Testing](https://github.com/PeterOyishoma) | — |
+| **API Security** | Authentication & Authorization Testing | [API Security Testing](https://github.com/PeterOyishoma) | — |
+| **API Security** | JWT and Token Security | [API Security Testing](https://github.com/PeterOyishoma) | — |
+| **API Security** | Identifying Exposed Endpoints & Secrets | [API Security Testing](https://github.com/PeterOyishoma) | — |
+| **Cybersecurity** | Vulnerability Scanning & Analysis | [Vulnerability Assessment Reports](https://github.com/PeterOyishoma) | — |
+| **Cybersecurity** | Web Application Security Testing | [Vulnerability Assessment Reports](https://github.com/PeterOyishoma) | — |
+| **Cybersecurity** | Secure System Configuration | [Cybersecurity Lab Setup](https://github.com/PeterOyishoma) | — |
+| **Cybersecurity** | Malware Analysis & Digital Forensics Labs | [Cybersecurity Lab Setup](https://github.com/PeterOyishoma) | — |
+| **Certifications** | JavaScript for Web Development | — | [W3Schools JavaScript Certificate](https://www.w3schools.com) |
 
 ---
 
@@ -68,7 +65,7 @@
 
 ## 📫 Contact Me
 - **Email:** peter.oyishoma@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/peteroyishoma)  
+- **LinkedIn:** [linkedin.com/in/peteroyishoma](https://linkedin.com/in/peteroyishoma)  
 - **Twitter:** [@OyishomaPeter](https://twitter.com/OyishomaPeter)
 
 ---
