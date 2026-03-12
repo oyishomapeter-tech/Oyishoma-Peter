@@ -8,14 +8,12 @@
 ---
 
 ## 🔹 About Me
-### I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations. I document hands-on security projects, labs, and learning in AppSec.
-
+### I am an Application Security Engineer focused on developing and securing web applications and APIs. Experienced in vulnerability assessment, API security testing, authentication/authorization, and secure system configurations.
 ---
 
 ## 🎯 Career Objective
 To work as an Application Security Engineer where I can secure web applications and APIs through practical security testing, strong authentication and authorization controls, and secure system configurations, while continuously improving application security through hands-on projects and real-world problem solving.
 
----
 <!--
 ## 🛠️ Skills & Experience Mapping
 
@@ -53,6 +51,13 @@ To work as an Application Security Engineer where I can secure web applications 
 ### **Vulnerability Assessment Reports**
 - Performed vulnerability scans and produced detailed security reports  
 - Tools & Tech: Nessus, OWASP ZAP, Burp Suite
+
+### **Employee Operations System Development
+- Designed and developed backend application for managing employee operations within the organization
+- Used Mongodb, Express, React, and Node for developement and delivery
+
+### **Blog Application 
+- Designed and develop a full stack blog application as an internship project using MongoDB, Express, EJS and Node
 
 *(More projects coming soon — check my repos!)*
 
