@@ -44,10 +44,6 @@ To work as an Application Security Engineer where I can secure web applications 
 - Identified and mitigated exposed DB URIs and insecure endpoints  
 - Tools & Tech: Postman, Node.js, JWT
 
-### **Server Management Chatbot**
-- Automated server management, monitoring, and reporting tasks  
-- Tools & Tech: Node.js, Docker, MongoDB
-
 ### **Vulnerability Assessment Reports**
 - Performed vulnerability scans and produced detailed security reports  
 - Tools & Tech: Nessus, OWASP ZAP, Burp Suite
