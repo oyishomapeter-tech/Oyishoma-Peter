@@ -16,7 +16,7 @@
 To work as an Application Security Engineer where I can secure web applications and APIs through practical security testing, strong authentication and authorization controls, and secure system configurations, while continuously improving application security through hands-on projects and real-world problem solving.
 
 ---
-
+<!--
 ## 🛠️ Skills & Experience Mapping
 
 | Category | Skill | Related Project | Certification / Evidence |
@@ -32,7 +32,7 @@ To work as an Application Security Engineer where I can secure web applications 
 | **Cybersecurity** | Secure System Configuration | [Cybersecurity Lab Setup](https://github.com/PeterOyishoma) | — |
 | **Cybersecurity** | Malware Analysis & Digital Forensics Labs | [Cybersecurity Lab Setup](https://github.com/PeterOyishoma) | — |
 | **Certifications** | JavaScript for Web Development | — | [W3Schools JavaScript Certificate](https://www.w3schools.com) |
-
+-->
 ---
 
 ## 💻 Projects
